@@ -1,3 +1,7 @@
+body{
+    background: black
+}
+
 #title, .subtitle, .post_title {
     color: rebeccapurple
 }
