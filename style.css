@@ -32,4 +32,8 @@ body{
 
 .post_image {
     margin-bottom: 15px;
+    max-width:250px;
+    max-height:200px;
+    width: auto;
+    height: auto;
 }
