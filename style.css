@@ -1,6 +1,10 @@
 body{
     background: rgba(224, 213, 213, 0.993)
 }
+.photo {
+ border: 1px solid black;
+ border-radius: 110px;
+}
 
 #title, .subtitle, .post_title, .rodape {
     color: rgb(86, 39, 133)
