@@ -46,3 +46,7 @@ a {
     width: auto;
     height: auto;
 }
+
+.contacts_list{
+    list-style: none;
+}
