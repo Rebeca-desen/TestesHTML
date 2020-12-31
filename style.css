@@ -1,5 +1,6 @@
 body{
-    background: rgba(224, 213, 213, 0.993)
+    background: rgba(224, 213, 213, 0.993);
+    font-family: Verdana;
 }
 .photo {
  border: 1px solid black;
