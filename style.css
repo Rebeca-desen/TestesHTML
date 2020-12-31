@@ -2,6 +2,10 @@ body{
     background: rgba(224, 213, 213, 0.993);
     font-family: Verdana;
 }
+#title {
+    font-size: 40px;
+    text-transform: uppercase;
+}
 .photo {
  border: 1px solid black;
  border-radius: 110px;
