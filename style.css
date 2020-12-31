@@ -1,7 +1,7 @@
 body{
     background: rgba(224, 213, 213, 0.993);
     font-family: Verdana;
-    width: 900px;
+    max-width: 900px;
     margin: auto;
 }
 #title {
